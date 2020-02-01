@@ -28,10 +28,10 @@ Syntax highlighted code block
 ![Image](/image-foder/readme/Figure_21.png)
 ![Image](image-foder/readme/Figure_21.png)
 ```
-[Link](www.baidu.com) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
+[百度](https://www.baidu.com) and ![全url](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
 
-![Image](/image-foder/readme/Figure_21.png)
-![Image](image-foder/readme/Figure_21.png)
+![带首/的相对url](/image-foder/readme/Figure_21.png)
+![不带首/的相对url](image-foder/readme/Figure_21.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
