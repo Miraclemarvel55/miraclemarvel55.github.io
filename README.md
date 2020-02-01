@@ -22,12 +22,16 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and [![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)]
+ 注意喔，在代码块里的url和image不会被解释
+[Link](www.baidu.com) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
 
 ![Image](/image-foder/readme/Figure_21.png)
 ![Image](image-foder/readme/Figure_21.png)
 ```
+[Link](url) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
+
+![Image](/image-foder/readme/Figure_21.png)
+![Image](image-foder/readme/Figure_21.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
