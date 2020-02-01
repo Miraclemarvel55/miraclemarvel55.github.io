@@ -23,7 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/8af6e022501f4e8b8d93fef02b671dea.gif)
+[Link](url) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
+
+![Image](/image-foder/readme/Figure_21.png)
+![Image](image-foder/readme/Figure_21.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
