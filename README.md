@@ -28,7 +28,7 @@ Syntax highlighted code block
 ![Image](/image-foder/readme/Figure_21.png)
 ![Image](image-foder/readme/Figure_21.png)
 ```
-[Link](url) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
+[Link](www.baidu.com) and ![Image](https://github.com/Miraclemarvel55/miraclemarvel55.github.io/blob/master/image-foder/readme/Figure_21.png)
 
 ![Image](/image-foder/readme/Figure_21.png)
 ![Image](image-foder/readme/Figure_21.png)
